@@ -1,0 +1,44 @@
+.timer {
+  margin-top: 100px;
+  font-size: 0;
+  text-align: center;
+}
+.field {
+  display: inline-block;
+  vertical-align: top;
+}
+.value {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 60px;
+  background: #720f96;
+  color: #ffffff;
+  line-height: 70px;
+  width: 85px;
+  margin: 0 1px;
+  border-radius: 2px;
+}
+.label {
+  display: block;
+  background: none;
+  color: inherit;
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 30px;
+  width: auto;
+  margin: 0;
+}
+.timer_delimetr {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 50px;
+  line-height: 70px;
+  margin: 0 5px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #044a12;
+  text-align: center;
+  font-size: 88px;
+}
